@@ -1,0 +1,155 @@
+*******************************************----------------------------------
+Implement compliance for Microsoft Teams
+----------------------------------*******************************************
+
+Describe how sensitivity labels work and how to configure them.
+Describe how to create retention policies.
+Generate Data Loss Prevention policies to protect against data leakage.
+Deploy communication compliance for reviewing communication.
+Activate the scoped directory search in Teams.
+Describe how information barrier policies work and how to create them.
+Create and manage eDiscovery cases and supervision policies.
+Create and manage compliance recording policies.
+Configure alert policies for events in Microsoft Teams.
+
+
+
+*******************************************----------------------------------
+Implement lifecycle management and governance for Microsoft Teams
+----------------------------------*******************************************
+
+Describe the lifecycle management for Teams
+Plan governance features for Teams
+Configure Microsoft 365 Groups governance features
+Plan the Teams policy assignment for different scenarios
+Create and manage policy packages
+Control Teams preview features for users
+Create and manage team templates and templates policies (https://learn.microsoft.com/en-us/microsoftteams/create-a-team-template)
+
+
+
+
+
+*******************************************----------------------------------
+Manage access for external users
+----------------------------------*******************************************
+
+Explain external access and guest access.
+Describe how to manage external access and guest access.
+Manage external collaboration in Azure Active Directory.(https://learn.microsoft.com/en-us/training/modules/manage-access-for-external-users/05-manage-external-collaboration-azure-active-directory)
+Manage external collaboration in Microsoft 365.(https://learn.microsoft.com/en-us/training/modules/manage-access-for-external-users/06-manage-external-collaboration-microsoft-365)
+Manage external access in Microsoft Teams.
+Manage guest access in Microsoft Teams.
+Manage file sharing in SharePoint (https://learn.microsoft.com/en-us/training/modules/manage-access-for-external-users/09-manage-file-sharing-sharepoint-onedrive)
+
+
+
+*******************************************----------------------------------
+Configure and manage Microsoft Teams Room and Teams devices
+----------------------------------*******************************************
+
+Standardize a Teams Rooms deployment
+Consider the right criteria when analyzing various meeting spaces
+Create the resource account used by Teams Rooms
+Manage device settings and firmware
+Manage configuration profiles
+Manage Teams device tags
+
+
+
+
+*******************************************----------------------------------
+Manage collaboration experiences for chat and channels
+----------------------------------*******************************************
+
+Manage the creation of private channels
+Control the email integration of teams
+Organize the file sharing functions from the Teams client
+Create and modify messaging policies
+Understand how to set up channel moderation in teams
+
+
+
+
+
+*******************************************----------------------------------
+Manage apps for Microsoft Teams
+----------------------------------*******************************************
+
+Explore Microsoft Teams (https://learn.microsoft.com/en-us/training/modules/manage-apps-for-microsoft-teams/02-explore-apps-microsoft-teams)
+Describe admin settings for Teams apps (https://learn.microsoft.com/en-us/training/modules/manage-apps-for-microsoft-teams/03-describe-admin-settings-teams-apps)
+Manage app settings at the organization level
+Manage and configure app permission and app setup policies
+Manage custom app uploads
+Publish a custom app in Microsoft Teams
+Customize app store and branded experience of an app
+
+
+
+
+*******************************************----------------------------------
+Manage phone numbers and settings
+----------------------------------*******************************************
+
+Evaluate Teams calling solutions
+Explain how to get phone numbers
+Manage emergency addresses
+Manage phone numbers for users
+Manage voice settings for users
+
+
+
+
+
+*******************************************----------------------------------
+Manage Teams Phone settings and policies
+----------------------------------*******************************************
+
+Create and manage resource accounts
+Create and manage call queues
+Create and manage auto attendants
+Configure call park policies
+Configure policies to manage calling capabilities
+
+
+
+
+*******************************************----------------------------------
+retention policies (Retaining content , Deleting content, Retain and then delete, Retain-only)
+----------------------------------*******************************************
+
+New-RetentionCompliancePolicy
+
+
+As políticas de retenção e os rótulos de retenção do Microsoft 365 ajudam você 
+a gerenciar com mais eficiência as informações em sua organização. 
+O Teams oferece suporte a políticas de retenção para mensagens de bate-papo e canal, 
+para que, como administrador, você possa decidir proativamente se 
+deseja reter esses dados, excluí-los ou retê-los por um período 
+de tempo específico e, em seguida, excluí-los.
+
+E-mail do Exchange
+Site do SharePoint
+Contas do OneDrive
+Grupos do Microsoft 365
+Skype para Empresas
+Pastas públicas do Exchange
+Mensagens do canal Teams
+Bate-papos em equipes
+Mensagens da comunidade do Yammer
+Mensagens de usuário do Yammer
+
+
+*******************************************----------------------------------
+Data Loss Prevention (DLP) 
+----------------------------------*******************************************
+
+A política de DLP pode ajudá-lo a:
+Identificar informações confidenciais em vários locais (Exchange Online, SharePoint, OneDrive e Microsoft Teams)
+Impedir o compartilhamento de informações confidenciais por acidente
+Monitorar e proteger informações confidenciais nas versões de área de trabalho do Excel, PowerPoint e Word
+Exibir relatórios de DLP (com conteúdo que corresponda às políticas de DLP da sua organização)
+
+
+
+
